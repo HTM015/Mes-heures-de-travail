@@ -2,7 +2,7 @@
   "name": "Mes Heures CP 124",
   "short_name": "MesHeures",
   "description": "Suivi des heures de travail pour le chauffage sanitaire CP 124",
-  "start_url": "/",
+  "start_url": "/Mes-heures-de-travail",
   "display": "standalone",
   "background_color": "#F5F5F3",
   "theme_color": "#1D9E75",
