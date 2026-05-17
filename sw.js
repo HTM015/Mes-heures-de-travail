@@ -8,7 +8,7 @@ const CACHE_NAME = 'mes-heures-v1';
 // Tous les fichiers à mettre en cache pour le mode hors-ligne
 const FILES_TO_CACHE = [
   '/',
-  '/index.html',
+  './index.html',
   '/manifest.json',
   '/icon.png',
   'https://cdn.jsdelivr.net/npm/@tabler/icons-webfont@latest/tabler-icons.min.css',
